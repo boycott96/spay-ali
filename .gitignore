@@ -11,6 +11,9 @@ target/
 *.iws
 *.iml
 *.ipr
+.history/
+private-file.key
+public-file.key
 
 ### Eclipse ###
 .apt_generated
